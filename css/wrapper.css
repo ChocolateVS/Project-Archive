@@ -1,0 +1,19 @@
+#menu {
+    width:100%;
+    height: 2.5%;
+    margin:0;
+    bottom:0;
+    background-color: #456588;
+}
+
+iframe {
+    margin:0;
+    border:none;
+    overflow:hidden;
+}
+
+body {
+    margin:0;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #456588;
+}
