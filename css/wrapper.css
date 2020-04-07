@@ -14,7 +14,7 @@ iframe {
 body {
     margin:0;
     font-family: 'Roboto Mono', monospace;
-    background-color: #456588;
+    background-color: #000000;
 }
 
 .bottom {
@@ -55,4 +55,7 @@ body {
 a {
     text-decoration: none;
     color: white; 
+}
+.holds-the-iframe {
+    background:url(/images/loading.gif) center center no-repeat;
 }
