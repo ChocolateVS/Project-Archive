@@ -2,6 +2,8 @@ body {
     font-family: 'Roboto Slab', serif;
     color:white;
     font-style:bold;
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 #text {
